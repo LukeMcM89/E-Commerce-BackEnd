@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "Utilizes MySQL2 and Sequelize technology packages which connect an Express.js API to a MySQL database coupled with a dotenv package to use environment variables to store sensitive data.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeMcM89/E-Commerce-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeMcM89/E-Commerce-BackEnd/issues"
+  },
+  "homepage": "https://github.com/LukeMcM89/E-Commerce-BackEnd#readme"
+}

@@ -1,12 +1,17 @@
 # E-Commerce-BackEnd
 Utilizes MySQL2 and Sequelize technology packages which connect an Express.js API to a MySQL database coupled with a dotenv package to use environment variables to store sensitive data. 
 
+Utilizing the API client, Insomnia, the user has the ability to GET, GET by ID, POST, PUT and DELETE a category, product or tag. 
 
 # Technologies Used / Required
 
 MySQL2
 
+https://dev.mysql.com/downloads/installer/
+
 Node.js
+
+https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
 
 Insomnia
 

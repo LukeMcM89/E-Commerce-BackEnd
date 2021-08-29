@@ -8,6 +8,23 @@ MySQL2
 
 Node.js
 
+Insomnia
+
+https://insomnia.rest/download
+
+# Installations
+
+To install the necessary dependencies, run the following command:
+
+npm i
+
+To utilize and operate MySQL effectively, first log into MySQL and source the db/schema.sql file. Then exit by typing the following command:
+
+Exit
+
+To incorporate the necessary seed files, run the following command:
+
+node seeds
 
 Video tutorial link:
 

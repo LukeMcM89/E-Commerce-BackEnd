@@ -31,7 +31,7 @@ To incorporate the necessary seed files, run the following command:
 
 node seeds
 
-Video tutorial link:
+Video tutorial link: https://drive.google.com/file/d/1nNrRnH8wf_suwfaaJ1YOqpz9QHuAAAlT/view?usp=sharing
 
 
 Link to repository: https://github.com/LukeMcM89/E-Commerce-BackEnd
